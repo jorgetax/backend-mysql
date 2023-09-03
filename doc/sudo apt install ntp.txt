@@ -1,0 +1,6 @@
+sudo apt install ntp
+
+sudo dpkg-reconfigure tzdata
+
+sudo service ntp restart
+

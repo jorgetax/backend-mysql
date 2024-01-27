@@ -1,3 +1,11 @@
 # Backend Mysql
 
-- [Authentication]['packages/backend/src/auth']
+- Authentication
+- Dynamic Router
+
+### Dependencies
+
+- bcrypt
+- express
+- mysql2
+- nodemon
